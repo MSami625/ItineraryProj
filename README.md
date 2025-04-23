@@ -78,7 +78,7 @@ Endpoints will be available at `http://localhost:8000/api/itinerary`.
 
 1. **Navigate** into the frontend folder:
    ```bash
-   cd frontend
+   cd client
    ```
 
 2. **Install** Node.js dependencies:
@@ -108,7 +108,7 @@ The React app will launch at `http://localhost:5173` and proxy API requests to t
 
 ## 🏃‍♂️ Usage
 
-1. Open your browser to **http://localhost:3000**.
+1. Open your browser to **http://localhost:5173**.
 2. Fill in your travel details:
    - Start & End Dates
    - Budget (INR)
